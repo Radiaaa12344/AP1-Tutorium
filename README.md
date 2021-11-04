@@ -1,2 +1,2 @@
 # AP1-Tutorium
-Lösungen  Aufgaben aus dem Praktikum und Tutorium
+Das Repository beinhaltet Code und mögliche Lösungen aus dem tutorium oder Beratungsterminen 
